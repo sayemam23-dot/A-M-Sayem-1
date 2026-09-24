@@ -1,1 +1,0 @@
-Put a favicon here as favicon.png (e.g. a simple square icon, 512x512 or 32x32).
